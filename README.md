@@ -1,1 +1,1 @@
-# The spell-checker is in the speller branch
+# The spell-checker is in the other branch
